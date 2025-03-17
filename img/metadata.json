@@ -1,0 +1,39 @@
+{
+  "name": "Zamalek vs. TP Mazembe 2020 NFT Ticket",
+  "description": "A blockchain-immutable NFT representing a historic 2020 CAF Champions League match ticket between Zamalek (Egypt) and TP Mazembe (DR Congo). This ERC-721 token preserves a legendary moment in African football history with secure, decentralized ownership.",
+  "image": "https://tomato-manual-pheasant-912.mypinata.cloud/ipfs/bafybeidqj3yyraobpjltrv6dd3mmrf4zqgz3wcgn7ndpw42aw7vcxlnhom",
+  "attributes": [
+    {
+      "trait_type": "Teams",
+      "value": "Zamalek 🇪🇬 vs. TP Mazembe 🇨🇩"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Competition",
+      "value": "CAF Champions League"
+    },
+    {
+      "trait_type": "Venue",
+      "value": "Cairo, Egypt"
+    },
+    {
+      "trait_type": "Significance",
+      "value": "Historic African Club Football Match"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "ERC-721"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Ethereum"
+    }
+  ],
+  "external_url": "https://github.com/abdulsamed113/FootballTicketNFT",
+  "background_color": "000000",
+  "license": "MIT",
+  "license_uri": "https://opensource.org/licenses/MIT"
+}
